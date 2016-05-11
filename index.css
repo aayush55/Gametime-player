@@ -1,3 +1,7 @@
+@font-face {
+        font-family: "ocr";
+        src: url(OCR_A_Std.tff);
+}
 html, body, canvas {
   margin: 0;
   padding: 0;
@@ -45,6 +49,9 @@ html, body, canvas {
 }
 .message {
   text-align: center;
+}
+h1, p {
+	font-family: "ocr";
 }
 .message h1, .message p {
   position: relative;
