@@ -2,10 +2,10 @@
   "name": "gpemu",
   "version": "1.0.8",
   "description": "A video game emulator supporting NES, SNES, Gameboy, and Gameboy Advance ROMs. Works best with external gamepad.",
-  "author": "Matthew Bauer <mjbauer95@gmail.com>",
+  "author": "Aayush Gupta",
   "repository": {
     "type": "git",
-    "url": "https://github.com/matthewbauer/gametime-player.git"
+    "url": "https://aayush55.github.io/Gametime-player/"
   },
   "jspm": {
     "dependencies": {
